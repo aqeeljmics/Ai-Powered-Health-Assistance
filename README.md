@@ -7,7 +7,8 @@
 1. Clone the repository:
    ```bash
   
-   cd Medical-Health-Assistant
+   cd Ai-Powered-Health-Assistance
+
    ```
 2. Install required dependencies:
    ```bash
@@ -16,7 +17,7 @@
 
 3. Run the application:
    ```bash
-   streamlit run medical.py
+   streamlit run app.py
    ```
 
 ## Technologies Used
